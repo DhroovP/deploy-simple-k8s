@@ -6,7 +6,8 @@ Deploy a web server using a single command.
 
 ## Breaking down the goal
 
-1. Create a container image (Dockerfile, can switch to Paketo if time provides)
+1. *DONE* Create a container image (Dockerfile, can switch to Paketo if time provides)
+2. Create IAM
 2. Create an EKS cluster
 3. Push a container image to ECR
 4. Deploy a web app to Kubernetes
